@@ -1,0 +1,7 @@
+BASE (del acrónimo inglés Bielefeld Academic Search Engine) es un motor de búsqueda multidisciplinario, que es usado generalmente para encontrar textos en recursos escolares a través de Internet. Este buscador fue creado por la Biblioteca de la Universidad de Bielefeld en la ciudad de Bielefeld, Alemania. Se basa en la tecnología de búsqueda provista por la empresa noruega Fast Search & Transfer.
+
+BASE es un proveedor de servicios registras para Open Archives Initiative (OAI) y ha contribuido para el proyecto Digital Repository Infrastructure Vision for European Research (DRIVER) desde junio de 2006.
+
+Los metadatos generados para OAI son la principal fuente de alimentación del proyecto BASE, a los cuales se agrega los repositorios científicos virtuales que implementados mediante Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH), siendo ordenados por el programa provisto por la empresa Fast.
+
+Además de los metadatos generador por OAI, la biblioteca genera índices de sitios webs seleccionados y colecciones de datos locales, siendo toda la información buscada mediante una interfaz de usuario muy simple.
